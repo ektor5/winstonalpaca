@@ -1,0 +1,131 @@
+title: Winston Alpaca
+base_url: https://winstonalpaca.it/
+
+language: it
+
+site_assets:
+- winston-hogar.jpg
+
+home_image:
+description = The band
+file = winston-black-banner.png
+
+theme:
+background_alpha = 23
+background_image = wall.jpg
+round_corners = enabled
+
+>link:
+>label = Facebook
+>url = https://www.facebook.com/winstonalpaca
+
+link:
+label = Merch
+url = https://www.stickermule.com/winstonalpaca
+
+release_downloads:
+- opus
+- mp3
+
+-- synopsis
+I Winston Alpaca sono una band alternative rock italiana dal sound che unisce
+chitarre energiche, atmosfere emotive, e testi in italiano. Il tutto muovendosi tra rock
+alternativo, il pop-rock e influenze indie.
+
+-- synopsis
+
+
+-- more
+
+I *Winston Alpaca* sono una band alternative rock nata nella Valdelsa, in Toscana. Il progetto
+nasce dalla voglia di portare sul palco musica originale in italiano, mescolando
+energia rock, influenze alternative e sonorità indie.
+
+Le canzoni alternano momenti intensi e riflessivi a parti più dinamiche e
+potenti, con chitarre distorte, ritmiche solide e testi che raccontano emozioni,
+esperienze e frammenti di vita quotidiana. Il loro obiettivo è creare un sound
+autentico e diretto, capace di trasmettere qualcosa sia dal vivo che in studio.
+
+Attualmente la band sta lavorando alla scrittura di nuovi brani e alla
+costruzione della propria identità live, portando la propria musica sui palchi
+dei locali e delle realtà musicali del territorio.
+
+<br>
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 10px; gap: 20px;"> 
+<b> Seguici sui nostri link social </b>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 10px; gap: 20px;">
+<a href="https://www.instagram.com/winston_alpaca" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; "> 
+<svg fill="#000000" width="20px" height="1em" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="null">
+<path d="M17.34,5.46h0a1.2,1.2,0,1,0,1.2,1.2A1.2,1.2,0,0,0,17.34,5.46Zm4.6,2.42a7.59,7.59,0,0,0-.46-2.43,
+  4.94,4.94,0,0,0-1.16-1.77,4.7,4.7,0,0,0-1.77-1.15,7.3,7.3,0,0,0-2.43-.47C15.06,2,14.72,2,12,2s-3.06,
+  0-4.12.06a7.3,7.3,0,0,0-2.43.47A4.78,4.78,0,0,0,3.68,3.68,4.7,4.7,0,0,0,2.53,5.45a7.3,7.3,0,0,0-.47,
+  2.43C2,8.94,2,9.28,2,12s0,3.06.06,4.12a7.3,7.3,0,0,0,.47,2.43,4.7,4.7,0,0,0,1.15,1.77,4.78,4.78,0,0,
+  0,1.77,1.15,7.3,7.3,0,0,0,2.43.47C8.94,22,9.28,22,12,22s3.06,0,4.12-.06a7.3,7.3,0,0,0,2.43-.47,4.7,
+  4.7,0,0,0,1.77-1.15,4.85,4.85,0,0,0,1.16-1.77,7.59,7.59,0,0,0,.46-2.43c0-1.06.06-1.4.06-4.12S22,
+  8.94,21.94,7.88ZM20.14,16a5.61,5.61,0,0,1-.34,1.86,3.06,3.06,0,0,1-.75,1.15,3.19,3.19,0,0,1-1.15.75,
+  5.61,5.61,0,0,1-1.86.34c-1,.05-1.37.06-4,.06s-3,0-4-.06A5.73,5.73,0,0,1,6.1,19.8,
+  3.27,3.27,0,0,1,5,19.05a3,3,0,0,1-.74-1.15A5.54,5.54,0,0,1,3.86,16c0-1-.06-1.37-.06-4s0-3,
+  .06-4A5.54,5.54,0,0,1,4.21,6.1,3,3,0,0,1,5,5,3.14,3.14,0,0,1,6.1,4.2,5.73,5.73,0,0,1,8,
+  3.86c1,0,1.37-.06,4-.06s3,0,4,.06a5.61,5.61,0,0,1,1.86.34A3.06,3.06,0,0,1,19.05,5,
+  3.06,3.06,0,0,1,19.8,6.1,5.61,5.61,0,0,1,20.14,8c.05,1,.06,1.37.06,4S20.19,15,20.14,16ZM12,
+  6.87A5.13,5.13,0,1,0,17.14,12,5.12,5.12,0,0,0,12,6.87Zm0,8.46A3.33,3.33,0,1,1,15.33,12,3.33,3.33,0,0,1,12,15.33Z"/>
+</svg> Instagram </a>
+
+<a href="https://www.facebook.com/winstonalpaca" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; "> 
+<svg xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" fill="#000000"
+  width="18px" height="1em" viewBox="0 0 50 50" style="null" class="icon
+  icons8-Facebook-Filled" >
+<path
+  d="M40,0H10C4.486,0,0,4.486,0,10v30c0,5.514,4.486,10,10,10h30c5.514,0,10-4.486,10-10V10C50,4.486,45.514,0,40,0z
+  M39,17h-3
+  c-2.145,0-3,0.504-3,2v3h6l-1,6h-5v20h-7V28h-3v-6h3v-3c0-4.677,1.581-8,7-8c2.902,0,6,1,6,1V17z"></path>
+</svg>  Facebook </a>
+
+<a href="https://soundcloud.com/winston-alpaca" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; ">  
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="1em"
+	 viewBox="0 0 291.319 291.319" style="enable-background:new 0 0 291.319 291.319;" xml:space="preserve">
+	<path style="fill:#FFFFFF;" d="M72.83,218.485h18.207V103.832c-6.828,1.93-12.982,5.435-18.207,10.041
+		C72.83,113.874,72.83,218.485,72.83,218.485z M36.415,140.921v77.436l1.174,0.127h17.033v-77.682H37.589
+		C37.589,140.803,36.415,140.921,36.415,140.921z M0,179.63c0,14.102,7.338,26.328,18.207,33.147V146.52
+		C7.338,153.329,0,165.556,0,179.63z M109.245,218.485h18.207v-109.6c-5.444-3.396-11.607-5.635-18.207-6.5V218.485z
+		 M253.73,140.803h-10.242c0.519-3.168,0.847-6.382,0.847-9.705c0-32.182-25.245-58.264-56.388-58.264
+		c-16.896,0-31.954,7.775-42.287,19.955v125.695h108.07c20.747,0,37.589-17.388,37.589-38.855
+		C291.319,158.182,274.477,140.803,253.73,140.803z"/>
+</svg>Soundcloud </a> 
+
+<a href="https://www.youtube.com/@WinstonAlpaca" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; ">  
+<!-- License: PD. Made by Aleksey Popov: https://dribbble.com/AlekseyPopov -->
+<svg fill="#000000" width="20px" height="20px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" d="M23,11.9972 C23,15.0688707 22.7080514,16.9571365
+  22.0247481,18.1281724 C21.3347709,19.3777602 20.5269977,19.7708297
+  18.8782989,19.8862992 C17.7148693,19.9542414 14.794638,20 12.0026667,20
+  C9.2044172,20 6.28275714,19.9542562 5.10860514,19.8855427
+  C3.47493151,19.7708031 2.66701263,19.37838 1.97791182,18.142374
+  C1.29279472,16.9480084 1,15.052042 1,12.0084 C1,8.94737365
+  1.29138368,7.06090428 1.97193166,5.86259947 C2.67010997,4.61046509
+  3.49111627,4.21325835 5.11100471,4.1184917 C6.23144506,4.04250638 8.99660854,4
+  12.0026667,4 C15.002263,4 17.766208,4.04252223 18.8782989,4.11790083
+  C20.5073007,4.21303163 21.3281267,4.60936303 22.020213,5.8580297
+  C22.7108012,7.06048454 23,8.93778123 23,11.9972 Z M20.283329,6.84963647
+  C19.9603324,6.26505017 19.7713697,6.17346202 18.752413,6.11391338
+  C17.6926261,6.04212137 14.954737,6 12.0026667,6 C9.04424331,6
+  6.3050775,6.04210674 5.2370951,6.1144916 C4.22844212,6.17352647
+  4.03674592,6.26627 3.71489655,6.84342165 C3.2475376,7.66638709 3,9.26898917
+  3,11.9972 C3,14.7270394 3.24886149,16.33852 3.71873501,17.1577995
+  C4.03565111,17.7261665 4.22600958,17.8186276 5.23703026,17.8897046
+  C6.34874254,17.9546989 9.24212825,18 12.0026667,18 C14.7569983,18
+  17.6489264,17.9546849 18.7500936,17.8904464 C19.7737637,17.8187098
+  19.961409,17.7274 20.2855157,17.1409953 C20.752236,16.3407623 21,14.7382734
+  21,12.0084 C21,9.25771396 20.7535449,7.66399511 20.283329,6.84963647 Z M10,9
+  L15,12 L10,15 L10,9 Z"/>
+</svg>YouTube </a>
+
+</div> <br> <br>
+
+<img src="./winston-hogar.jpg" />
+
+-- more
