@@ -6,6 +6,14 @@ language: it
 site_assets:
 - winston-ottobit.jpg
 
+-- site_metadata
+<script>
+  if (window.location.pathname === '/' || window.location.pathname === '/index.html') {
+    window.location.href = '/home';
+  }
+</script>
+-- site_metadata
+
 home_image:
 description = The band
 file = winston-black-banner.png
