@@ -4,7 +4,7 @@ base_url: https://winstonalpaca.it/
 language: it
 
 site_assets:
-- winston-hogar.jpg
+- winston-ottobit.jpg
 
 home_image:
 description = The band
@@ -126,6 +126,6 @@ dei locali e delle realtà musicali del territorio.
 
 </div> <br> <br>
 
-<img src="./winston-hogar.jpg" />
+<img src="./winston-ottobit.jpg" />
 
 -- more
