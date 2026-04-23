@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" >
+    <channel>
+        <atom:link href="https://winstonalpaca.it/feed.rss" rel="self" type="application/rss+xml"/>
+        <description>I Winston Alpaca sono una band alternative rock italiana dal sound che unisce
+chitarre energiche, atmosfere emotive, e testi in italiano. Il tutto muovendosi tra rock
+alternativo, il pop-rock e influenze indie.
+</description>
+        <generator>Faircamp 1.7.0 (0c20361)</generator>
+        <image>
+    <height>432</height>
+    <link>https://winstonalpaca.it/</link>
+    <title>The band</title>
+    <url>https://winstonalpaca.it/feed.jpg?JdiXjeVmvX0</url>
+    <width>432</width>
+</image>
+
+        <language>it</language>
+        <lastBuildDate>Thu, 23 Apr 2026 11:08:03 +0000</lastBuildDate>
+        <link>https://winstonalpaca.it/</link>
+        <title>Winston Alpaca</title>
+        
+        <item>
+    <description>I Winston Alpaca sono una band alternative rock italiana nata nel 2024.
+Il loro sound mescola grunge, psichedelia e noise, tra chitarre distorte,
+elettronica e atmosfere sognanti sostenute da ritmiche energiche.</description>
+    <guid>https://winstonalpaca.it/home/</guid>
+    <link>https://winstonalpaca.it/home/</link>
+    <title> – Winston Alpaca</title>
+    
+</item>
+
+    </channel>
+</rss>
